@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Best Doctor app</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
 </resources>

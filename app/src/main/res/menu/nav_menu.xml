@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Share" android:id="@+id/share" android:icon="@drawable/share" android:enabled="true"/>
+    <item android:title="Setting" android:id="@+id/setting" android:icon="@drawable/setting"/>
+    <item android:title="Exit" android:id="@+id/exit" android:icon="@drawable/ic_baseline_exit_to_app_24"/>
+</menu>
